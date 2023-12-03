@@ -1,0 +1,26 @@
+{
+  "name": "substack-api",
+  "version": "0.1.0",
+  "description": "Unofficial Substack API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcrescimbeni/substack-api.git"
+  },
+  "keywords": [
+    "substack"
+  ],
+  "author": "Dino Crescimbeni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcrescimbeni/substack-api/issues"
+  },
+  "homepage": "https://github.com/dcrescimbeni/substack-api#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.2"
+  }
+}
